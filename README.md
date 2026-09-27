@@ -9,4 +9,9 @@ Documentation for the automated mushroom growing operation.
 - [EC PWM Fan Control Boards](https://github.com/billjuv/EC_PWM_FanControlBoards) — PWM fan control board documentation
 - [Govee BLE Sniffers with OpenMQTTGateway](https://github.com/billjuv/OMG-ESP32-BLE_govee_sniffer) — ESP32 boards that monitor Govee temperature/humidity sensors via Bluetooth and forward data to MQTT
 
+## Related
+
+- [ESP32-Renogy-LoRa](https://github.com/billjuv/ESP32-Renogy-LoRa)) - A standalone LoRa transmitter that gets power and reads data from a Renogy solar charge controller via RS232
+- [ESP32-S3_XiAO-Renogy-LoRa](https://github.com/billjuv/ESP32-S3_XiAO-Renogy-LoRa) - A smaller, less expensive version of ESP32-Renogy-LoRa
+
 ## More Coming Soon
