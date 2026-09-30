@@ -1,5 +1,6 @@
 # Bill's Mushroom Grow Project 🍄
-
+> 🍄 One of several related projects. See the full list at **[billjuv.github.io](https://billjuv.github.io)**.
+> 
 I'm a hobbyist, not a professional developer, who enjoys tinkering with IoT, home automation, and environmental monitoring. When a friend started a mushroom growing operation in Nevada, I offered to handle the tech side.
 
 I knew (and still know) next to nothing about growing mushrooms. But I do know how to get a sensor to talk to a dashboard. So the deal was simple: **he grows, I wire.**
